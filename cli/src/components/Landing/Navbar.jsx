@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import { Button } from "react-bootstrap";
 import React from "react";
-import "./Navbar.css";
+import "./NavBar.css";
 import logo from '/logo.jpg';
 const Navbar = () => {
   return (
